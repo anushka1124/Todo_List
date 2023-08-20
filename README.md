@@ -21,5 +21,5 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
-![before Adding list](https://imgur.com/62WTx1A)
+![Before Adding list](https://i.imgur.com/62WTx1A.png)
 ![After Adding list](https://i.imgur.com/bs9PTSN.png)
